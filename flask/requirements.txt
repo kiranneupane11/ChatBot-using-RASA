@@ -1,0 +1,7 @@
+psycopg2-binary
+flask
+json5
+requests
+flask-cors
+environ
+python-dotenv

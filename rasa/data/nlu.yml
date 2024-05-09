@@ -1,0 +1,473 @@
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - hey there
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - good night
+    - bye
+    - goodbye
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: Q1
+  examples: |
+    - How can I contact you?
+    - How to contact Soaltee Hotel?
+    - Contact details of Soaltee Hotel
+    - Contact information on soaltee hotel
+    - email address of the soaltee
+    - phone number
+
+- intent: Q2
+  examples: |
+    - What are the brands of Soaltee?
+    - Different brands of soaltee.
+    - soaltee branch
+    - Different branches of soaltee.
+    - What are brands of soaltee Hotels and resorts?
+    - What are different Hotels of soaltee?
+    - Where are different hotels of soaltee located?
+
+- intent: Q3
+  examples: |
+    - What are the services given by soaltee?
+    - do you provide transportation service?
+    - services provided
+    - types of services
+    - what things make soaltee different from others?
+
+- intent: Q4
+  examples: |
+    - Are there any special offers?
+    - What are the offers of soaltee hotel?
+    - Special offers
+    - do you have any special offers for soaltee?
+
+- intent: Q5
+  examples: |
+    - How can I make reservation?
+    - I want to make reservation
+    - how to reserve a hotel?
+    - how can reservation be made?
+    - I want to book a room.
+    - How can hotel booking be done?
+    - How can i book a room?
+    -reservation
+
+- intent: Q6
+  examples: |
+    - What kinds of Rooms do you have?
+    - What types of rooms are available in soaltee hotel.
+    - Rooms of Soaltee
+    - hotel rooms
+    - best rooms
+
+- intent: Q7
+  examples: |
+    - What kinds of resturants are within soaltee
+    - what resturants does soaltee offers
+    - soaltee resturants
+    - resturants of soaltee
+
+- intent: Q8
+  examples: |
+    - Do you have spa?
+    - Can we conduct conference meetings here?
+    - Do you have any rooms for seminars?
+    - Does soaltee have spa?
+    - Can we get massages?
+    
+
+- intent: Q9
+  examples: |
+    - What are the prices of room?
+    - How much does the room cost?
+    - Are rooms expensive?
+    - Are rooms costly?
+    - room prices
+    - price of rooms
+    - room cost
+    - How to find the price of hotel rooms?
+    - room rates
+
+- intent: Q10
+  examples: |
+    - Are breakfast and dinner included in base price?
+    - Do we need to pay extra for breakfast and dinner?
+    - Are breakfast and dinner extra charged?
+    - How much is the price of breakfast and dinner?
+    - Do we need to pay for dinner?
+    - Do we need to pay for breakfast?
+
+- intent: Q11
+  examples: |
+    - About Soaltee
+    - Background Information on Soaltee
+    - Soaltee history
+    - What is soaltee?
+    - Soaltee introduction
+    - is it 5 star?
+
+- intent: Q12
+  examples: |
+    - djnvdfnvjd
+    -   pl[k c dnm]
+    - hsbdhkbkhvbkdfjbv 
+    - 51561321351
+    
+
+- intent: Q13
+  examples: |
+    - The Soaltee Location
+    - location
+    - where is soaltee located?
+    - location of soaltee hotel
+    - address of soaltee hotel
+
+- intent: Q14
+  examples: |
+    - the contact of Soaltee Westend Premier Nepalgunj
+    - soaltee nepalgunj contact details
+    - how to reach out to soaltee nepalgunj
+    - contact details of Soaltee Westland Premier Nepalgunj
+
+- intent: Q15
+  examples: |
+    - the location of soaltee hotel nepalgunj
+    - soaltee nepalgunj location
+    - soaltee westland premier nepalgunj location
+
+- intent: Q16
+  examples: |
+    - contact of soaltee chitwan
+    - contact details of Soaltee Westend Resort Chitwan
+    - phone number of Soaltee Westend Resort Chitwan
+    - email of Soaltee Westend Resort Chitwan
+    - how can I reach out to soaltee chitwan
+
+- intent: Q17
+  examples: |
+    - location of soaltee chitwan
+    - where is soaltee in chitwan loacated at
+    - where is Soaltee Westend Resort Chitwan
+    - Soaltee Westend Resort Chitwan location
+
+- intent: Q18
+  examples: |
+    - contact of Soaltee Westend Itahari
+    - contact of soaltee Itahari
+    - phone of soaltee itahari
+    - email of itahari
+
+- intent: Q19
+  examples: |
+    - location of soaltee itahari
+    - where is soaltee located at itahari
+    - soaltee itahari location
+
+- intent: Q20
+  examples: |
+    - can we leave our luggage in hotel?
+    - are we allowed to leave luggage in hotel?
+    - Is it possible to store luggage at the hotel either before check-in or after check-out?
+
+- intent: Q21
+  examples: |
+    - Where is Beauty parlour  located ?
+    - where can I find beauty parlour?
+    - Do you have parlour?
+    - where is the spa?
+    - spa location
+    
+
+- intent: Q22
+  examples: |
+    - Can we smoke in the room?
+    - are we allowded to smoke in the room?
+    - Is smoking allowded?
+
+- intent: Q23
+  examples: |
+    - Why no full set of amenities in room?
+    - There are not full set of amenities in room.
+    - amenities are lacking in the room.
+
+- intent: Q24
+  examples: |
+    - Do you offer baby-sitting services?
+    - Can you get me a baby-sitter?
+    - can I get baby-sitter offer?
+    - can you hire me a baby sitter?
+
+- intent: Q25
+  examples: |
+    - Do you have safety box in the room ?
+    - are there safety box in the room?
+    - are there any safety box in room?
+    - can i get safety box in the room?
+
+- intent: Q26
+  examples: |
+    - Where can I find an ATM machine ?
+    - where is atm machine?
+    - are there atm machines?
+
+- intent: Q27
+  examples: |
+    - I lost my room key, where can I get a new one?
+    - Can you provide spare room key?
+    - room spare key
+    - extra key
+    - can you get a new room key, if you've lost your room key?
+
+- intent: Q28
+  examples: |
+    - Can you recommend some sightseeing places in Kathmandu for us?
+    - what can be sightseeing places in kathmandu?
+    - what can be sightseeing places in ktm?
+    - recommend some places to visit in Ktm.
+
+- intent: Q29
+  examples: |
+    - Can I have late checkout?
+    - Can I checkout late?
+    - checkout time
+    - checkout
+    - what to do if I want to checkout late?
+
+- intent: Q30
+  examples: |
+    - Do you have a city map? Where can I get one?
+    - where can I get city map?
+    - can I get city map?
+
+- intent: Q31
+  examples: |
+    - How to make a call from room?
+    - can I make call from a room?
+    - How can I make a call from a room?
+
+- intent: Q32
+  examples: |
+    - How to open the Safe deposit locker?
+    - how can I open safe deposit locker?
+    - what should I do to open safe deposit locker?
+
+- intent: Q33
+  examples: |
+    - Where is the nearest pharmacy/drug store?
+    - where can i get meds from?
+    - where can I fetch medicines from?
+
+- intent: Q34
+  examples: |
+    - Where is Kakori Restaurant?
+    - where is kakori resturant located at?
+    - where can I find Kakori resturant?
+
+- intent: Q35
+  examples: |
+    - Where can I get Continental dishes?
+    - where can I find continental dishes?
+    - Where can I locate restaurants serving Continental food?
+
+- intent: Q36
+  examples: |
+    - How far is Bhaktapur, Dhulikhel, Nagarkot and Pokhara in terms of km from here ?
+    - how far is bhaktapur, dhulikhel, nagarkot and pokhara in km from here?
+    - how far is pokhara, shulikhel, nagarkot and bhaktapur form soaltee?
+
+- intent: Q37
+  examples: |
+    - Do you have Spa & Jacuzzi in the Hotel?
+    - Is there a Spa and Jacuzzi facility available at the hotel?
+    - Does the hotel provide access to Spa and Jacuzzi amenities?
+
+- intent: Q38
+  examples: |
+    - Can I use my laptop in the restaurants?
+    - am I allowded to use laptop inresturants?
+    - Can I work on my laptop while in the restaurants?
+
+- intent: Q39
+  examples: |
+    - How can we reconfirm our flight tickets?
+    - How do we go about verifying or confirming our flight tickets again?
+    - What is the process for double-checking our flight reservations?
+
+- intent: Q40
+  examples: |
+    - Where can I buy post stamps?
+    - Where can I purchase postage stamps?
+    - In which locations can I obtain post stamps?
+
+- intent: Q41
+  examples: |
+    - Why are bed linens not changed daily?
+    - What is the reason behind not changing bed linens on a daily basis?
+    - Why is there a practice of not replacing bed linens daily?
+    - What is the rationale for not changing bed linens every day?
+
+- intent: Q42
+  examples: |
+    - Where do you serve buffet breakfast?
+    - Where is the buffet breakfast served?
+    - Could you tell me where the buffet breakfast is offered?
+
+- intent: Q43
+  examples: |
+    - How do I send a courier?
+    - What is the process for sending a courier?
+    - What are the steps to ship a courier?
+
+- intent: Q44
+  examples: |
+    - Can I have a newspaper delivered to my room ?
+    - Is it possible to receive a newspaper in my room?
+    - Can I request a newspaper to be delivered to my room?
+    - Is newspaper delivery to the room an available service?
+
+- intent: Q45
+  examples: |
+    - How many restaurants do you have in the hotel ?
+    - How many dining establishments are available within the hotel?
+    - Can you tell me the number of restaurants situated in the hotel?
+    - What is the count of restaurants present in the hotel?
+
+- intent: Q46
+  examples: |
+    - How far is Gokarna from here?
+    - What is the distance between here and Gokarna?
+    - How many kms away is Gokarna from this location?
+    - Can you provide information on the distance to Gokarna from our current position?
+
+- intent: Q47
+  examples: |
+    - Can we access the Internet in the room ?
+    - Is it possible to connect to the internet from the room?
+    - Does the room have internet access?
+    - Can we use the internet within the confines of the room?
+
+- intent: Q48
+  examples: |
+    - Why no turndown service at night?
+    - What is the reason for the absence of a nightly turndown service?
+    - Why isn't there a turndown service provided in the evenings?
+    - Could you explain the decision not to offer turndown service during nighttime?
+
+- intent: Q49
+  examples: |
+    - Do you have a wheel chair ?
+    - Do you have wheelchairs available?
+    - Is there access to wheelchairs here?
+    - Are wheelchairs provided at this location?
+
+- intent: Q50
+  examples: |
+    - What is the timing of the Bar?
+    - What are the operating hours for the bar?
+    - Can you provide the schedule for the bar?
+    - When is the bar open?
+
+- intent: Q51
+  examples: |
+    - Is there some souvenirs shop in the hotel?
+    - Are there any souvenir shops available within the hotel?
+    - Does the hotel have a store where I can purchase souvenirs?
+    - Can I find a souvenir shop on the premises of the hotel?
+
+- intent: Q52
+  examples: |
+    - What facilities do you have in the Health Club?
+    - What amenities are available at the Health Club?
+    - Can you provide information on the facilities offered in the Health Club?
+    - What features does the Health Club have in terms of amenities?
+
+- intent: Q53
+  examples: |
+    - where is the nearest grocery shop ?
+    - Where can I find the closest grocery store?
+    - Could you tell me where the nearest market or grocery shop is located?
+    - What is the location of the nearest convenience store or grocery shop?
+
+- intent: Q54
+  examples: |
+    - where is the nearest shopping mall ?
+    - What is the closest shopping mall to this location?
+    - Can you tell me where I can find the nearest shopping center?
+    - Where is the closest mall for shopping?
+
+- intent: Q55
+  examples: |
+    - Where is the nearest movie theater ?
+    - What is the closest cinema?
+    - Can you tell me where the nearest movie theater is located?
+    - Where can I find the closest movie cinema?
+
+- intent: Q56
+  examples: |
+    - where can we buy local product ?
+    - Where can we purchase locally made products?
+    - What are the places to buy products that are locally sourced?
+    - In which establishments can we find and buy regional goods?
+
+- intent: Q57
+  examples: |
+    - what are the must visit place in Kathmandu?
+    - What are the essential places to visit in Kathmandu?
+    - Could you recommend the top must-see attractions in Kathmandu?
+    - Which places are a must-visit in Kathmandu?
+
+- intent: Q58
+  examples: |
+    - where can I find the charger for mobile phone?
+    - Where can I locate a charger for my mobile phone?
+    - Could you direct me to where I can find a mobile phone charger?
+    - Is there a place nearby where I can get a charger for my phone?
+
+- intent: Q59
+  examples: |
+    - where can I do the photocopy and print outs ?
+    - Where can I access photocopy and printing services?
+    - In which place can I get photocopies and printouts done?
+    - Where is the facility for photocopying and printing available?
+
+- intent: Q60
+  examples: |
+    - Do you have fitness centre?
+    - does it have a gym?
+    - gym?
+    - fitness centre location
+
+- intent: Q61
+  examples: |
+    - What is the checkin time?
+    - time to checkin
+    - When should i checkin? 
+    - provide checkin time
+    
+- intent: grateful
+  examples: |
+    - Thanks
+    - Thakyou
+    - Thank you
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?

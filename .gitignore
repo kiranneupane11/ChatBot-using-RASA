@@ -1,0 +1,5 @@
+*.env
+local.yml
+/env
+rasa.log
+rasa/.rasa

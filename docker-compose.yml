@@ -1,0 +1,34 @@
+version: '3.3'
+services:
+  soaltee_flask:
+    build: ./flask
+    image: soaltee_flask
+    container_name: soaltee_flask
+    restart: always
+    ports:
+      - 5000:5000
+    volumes:
+      - /home/sagar/rasa.log:/app/rasa.log
+    env_file: ./flask/.env
+    depends_on:
+    - soaltee_rasa 
+    - db
+
+  soaltee_rasa:
+    build: ./rasa
+    image: soaltee_rasa
+    container_name: soaltee_rasa
+    restart: always
+    ports:
+      - 5005:5005
+
+  db:
+    image: postgres
+    container_name: rasa_postgres 
+    volumes: 
+    - rasa_pg:/var/lib/postgresql
+    env_file:
+    - .sql.env
+
+volumes: 
+  rasa_pg:

@@ -1,0 +1,320 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: Q1
+  steps:
+  - intent: Q1
+  - action: utter_Q1
+
+- story: Q2
+  steps:
+  - intent: Q2
+  - action: utter_Q2
+
+- story: Q3
+  steps:
+  - intent: Q3
+  - action: utter_Q3
+
+- story: Q4
+  steps:
+  - intent: Q4
+  - action: utter_Q4
+
+- story: Q5
+  steps:
+  - intent: Q5
+  - action: utter_Q5
+
+- story: Q6
+  steps:
+  - intent: Q6
+  - action: utter_Q6
+
+- story: Q7
+  steps:
+  - intent: Q7
+  - action: utter_Q7
+
+- story: Q8
+  steps:
+  - intent: Q8
+  - action: utter_Q8
+
+- story: Q9
+  steps:
+  - intent: Q9
+  - action: utter_Q9
+
+- story: Q10
+  steps:
+  - intent: Q10
+  - action: utter_Q10
+
+- story: Q11
+  steps:
+  - intent: Q11
+  - action: utter_Q11
+
+- story: Q12
+  steps:
+  - intent: Q12
+  - action: utter_rephrase
+
+- story: Q13
+  steps:
+  - intent: Q13
+  - action: utter_Q13
+
+- story: Q14
+  steps:
+  - intent: Q14
+  - action: utter_Q14
+
+- story: Q15
+  steps:
+  - intent: Q15
+  - action: utter_Q15
+
+- story: Q16
+  steps:
+  - intent: Q16
+  - action: utter_Q16
+
+- story: Q17
+  steps:
+  - intent: Q17
+  - action: utter_Q17
+
+- story: Q18  
+  steps:  
+  - intent: Q18
+  - action: utter_Q18
+
+- story: Q19
+  steps:
+  - intent: Q19
+  - action: utter_Q19
+
+- story: Q20
+  steps:
+  - intent: Q20
+  - action: utter_Q20
+
+- story: Q21
+  steps:
+  - intent: Q21
+  - action: utter_Q21
+
+- story: Q22
+  steps:
+  - intent: Q22
+  - action: utter_Q22
+
+- story: Q23
+  steps:
+  - intent: Q23
+  - action: utter_Q23
+
+- story: Q24
+  steps:
+  - intent: Q24
+  - action: utter_Q24
+
+- story: Q25
+  steps:
+  - intent: Q25
+  - action: utter_Q25
+
+- story: Q26
+  steps:
+  - intent: Q26
+  - action: utter_Q26
+
+- story: Q27
+  steps:
+  - intent: Q27
+  - action: utter_Q27
+
+- story: Q28
+  steps:
+  - intent: Q28
+  - action: utter_Q28
+
+- story: Q29
+  steps:
+  - intent: Q29
+  - action: utter_Q29
+
+- story: Q30
+  steps:
+  - intent: Q30
+  - action: utter_Q30
+
+- story: Q31
+  steps:
+  - intent: Q31
+  - action: utter_Q31
+
+- story: Q32
+  steps:
+  - intent: Q32
+  - action: utter_Q32
+
+- story: Q33
+  steps:
+  - intent: Q33
+  - action: utter_Q33
+
+- story: Q34
+  steps:
+  - intent: Q34
+  - action: utter_Q34
+
+- story: Q35
+  steps:
+  - intent: Q35
+  - action: utter_Q35
+
+- story: Q36
+  steps:
+  - intent: Q36
+  - action: utter_Q36
+
+- story: Q37
+  steps:
+  - intent: Q37
+  - action: utter_Q37
+
+- story: Q38
+  steps:
+  - intent: Q38
+  - action: utter_Q38
+
+- story: Q39
+  steps:
+  - intent: Q39
+  - action: utter_Q39
+
+- story: Q40
+  steps:
+  - intent: Q40
+  - action: utter_Q40
+
+- story: Q41
+  steps:
+  - intent: Q41
+  - action: utter_Q41
+
+- story: Q42
+  steps:
+  - intent: Q42
+  - action: utter_Q42
+
+- story: Q43
+  steps:
+  - intent: Q43
+  - action: utter_Q43
+
+- story: Q44
+  steps:
+  - intent: Q44
+  - action: utter_Q44
+
+- story: Q45
+  steps:
+  - intent: Q45
+  - action: utter_Q45
+
+- story: Q46
+  steps:
+  - intent: Q46
+  - action: utter_Q46
+
+- story: Q47
+  steps:
+  - intent: Q47
+  - action: utter_Q47
+
+- story: Q48
+  steps:
+  - intent: Q48
+  - action: utter_Q48
+
+- story: Q49
+  steps:
+  - intent: Q49
+  - action: utter_Q49
+
+- story: Q50
+  steps:
+  - intent: Q50
+  - action: utter_Q50
+
+- story: Q51
+  steps:
+  - intent: Q51
+  - action: utter_Q51
+
+- story: Q52
+  steps:
+  - intent: Q52
+  - action: utter_Q52
+
+- story: Q53
+  steps:
+  - intent: Q53
+  - action: utter_Q53
+
+- story: Q54
+  steps:
+  - intent: Q54
+  - action: utter_Q54
+
+- story: Q55
+  steps:
+  - intent: Q55
+  - action: utter_Q55
+
+- story: Q56
+  steps:
+  - intent: Q56
+  - action: utter_Q56
+
+- story: Q57
+  steps:
+  - intent: Q57
+  - action: utter_Q57
+
+- story: Q58
+  steps:
+  - intent: Q58
+  - action: utter_Q58
+
+- story: Q59
+  steps:
+  - intent: Q59
+  - action: utter_Q59
+
+- story: Q60
+  steps:
+  - intent: Q60
+  - action: utter_Q60
+
+- story: Q61
+  steps:
+  - intent: Q61
+  - action: utter_Q61  
+
+- story: grateful
+  steps:
+  - intent: grateful
+  - action: utter_grateful

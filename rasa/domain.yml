@@ -1,0 +1,378 @@
+intents:
+  - greet
+  - goodbye
+  - Q1
+  - Q2
+  - Q3
+  - Q4
+  - Q5
+  - Q6
+  - Q7
+  - Q8
+  - Q9
+  - Q10
+  - Q11
+  - Q12
+  - Q13
+  - Q14
+  - Q15
+  - Q16
+  - Q17
+  - Q18
+  - Q19
+  - Q20
+  - Q21
+  - Q22
+  - Q23
+  - Q24
+  - Q25
+  - Q26
+  - Q27
+  - Q28
+  - Q29
+  - Q30
+  - Q31
+  - Q32
+  - Q33
+  - Q34
+  - Q35
+  - Q36
+  - Q37
+  - Q38
+  - Q39
+  - Q40
+  - Q41
+  - Q42
+  - Q43
+  - Q44
+  - Q45
+  - Q46
+  - Q47
+  - Q48
+  - Q49
+  - Q50
+  - Q51
+  - Q52
+  - Q53
+  - Q54
+  - Q55
+  - Q56
+  - Q57
+  - Q58
+  - Q59
+  - grateful
+  - bot_challenge
+
+responses:
+  utter_greet:
+  - text: |-
+      Hey! Welcome to the Soaltee Hotels and Resorts
+
+      Ask me your queries about The Soaltee Hotels and Resorts.
+
+  utter_Q1:
+  - text: |-
+      The Soaltee Kathmandu
+
+      Phone Number: +977-1-4273999
+
+      Email: info@soaltee.com
+
+  utter_Q2:
+  - text: |-
+      OUR BRANDS:
+
+      1. The Soaltee, Kathmandu
+      2. Soaltee Westend Premier, Nepalgunj
+      3. Soaltee Westland Resort, Chitwan
+      4. Soaltee Westend, Itahari
+  
+  utter_Q3:
+  - text: |-
+      The Services Provided by Soaltee:
+
+      - Exceptional Experience
+      - Best Price Gurantee
+      - Bespoke Luxury
+      - Exquisite Dining
+      - Captivating Events
+      - Immersive Wellness
+
+  utter_Q4:
+  - text: |-
+      Special Offers:
+
+      The Soaltee Kathmandu
+      - Happy Hour
+      - Hookah Promotion
+      - Mango Mania
+      - Saturday Brunch
+
+      Soaltee Westland Premier Nepalgunj
+      - Sunset Bar Offer
+      - Meeting Room Package
+      - Dream Wedding Offer
+
+      Solatee Westend Resort Chitwan
+      - Jungle Safari Breakfast
+      - Local Package | Bed N' Breakfast
+      - Have Your Moment
+
+      Soaltee Westend Itahari
+      - Meeting Package
+      - Swimming Pool Package
+
+  utter_Q5:
+  - text: |-
+      To make a reservation, you need to fill the form that appears in this 'https://soaltee.com/' page.
+
+  utter_Q6:
+  - text: |-
+      Hotel Rooms of Soaltee:
+
+      - Club Room
+      - Executive Suite
+      - Deluxe Room
+      - Accessible Room
+      - Classic Heritage
+      - Executive Room
+      - Regal Suite
+      - Presidential Suite 
+  
+  utter_Q7:
+  - text: |-
+      Resturant's at Soaltee:
+      - Sunrise Resturant
+        - Lobby
+        - Breakfast, Brunch, Lunch, Dinner, Dessert
+        - 7:00 AM - 10:45 PM
+      
+      - Sunset Bar
+        - Lobby
+        - 10:00 AM - 10:45 PM
+      
+      - Coffee Lounge
+        - Lobby
+        - 10:00 AM to 10:00 PM
+
+      - Golden Terrace - All Day Dining
+        - Lobby Level
+        - Breakfast, Brunch, Lunch, Dinner, Dessert
+
+      - Bao Xuan - Flavors of China
+        - Lobby Level
+        - Dinner, Dessert
+
+  utter_Q8:
+  - text: |-
+       Soaltee provides Conference Rooms, Health Clubs, Massages, Steam, Sauna and fully equipped mantra spas. We have conference room that are very well equipped with audio and visual facilities like LCD Projector, Stage, PA System, etc for our guests to perform conference, meetings or huge events.
+
+  utter_Q9:
+  - text: |-
+      The price of Hotel rooms varies according to hotels. As, we have different types of rooms like presential suites, Deluxe Rooms, their prices varies. You can check the price of your desired room while making reservation.
+
+  utter_Q10:
+  - text: "The breakfast and dinner are not charged extra. They are included to hotel price."
+
+  utter_Q11:
+  - text: The Soaltee, a Nepali brand established in 1966, is a pioneer in the hospitality industry. We are known for our authentic and personalized cultural experiences, rooted in the country's rich heritage and delivered with heartfelt passion.
+
+  utter_Q12:
+  - text: "Sir/Madam, our checkin time is after 2 PM."
+      
+  utter_Q13:
+  - text: |-
+      Address of The Soaltee: 
+      Tahachal, Kathmandu, Nepal, 44600 Kathmandu, Nepal
+      Soaltee Westend Premier, Nepalgunj
+      Soaltee Westland Resort, Chitwan
+      Soaltee Westend, Itahari
+
+  utter_Q14:
+  - text: |-
+      Soaltee Westend Premier Nepalgunj
+
+      Phone Number: +977–81-551145
+
+      Email: res.swp@soaltee.com
+
+  utter_Q15:
+  - text: |-
+      Soaltee Westend Premier Nepalgunj
+
+      Address: Bhujaigaun, Basudevpur, Nepalgunj, Nepal
+
+  utter_Q16:
+  - text: |-
+      Soaltee Westend Resort Chitwan
+
+      Phone Number: +977–56-411122
+
+      Email: res.swrc@soaltee.com
+
+  utter_Q17:
+  - text: |-
+      Soaltee Westend Resort Chitwan
+
+      Address: BMC – 22, Pathiani, Chitwan, Nepal
+
+  utter_Q18:
+  - text: |-
+      Soaltee Westend Itahari
+
+      Phone Number: +977–25–590317/18/19
+
+      Email: info.swi@soaltee.com
+
+  utter_Q19:
+  - text: |-
+      Soaltee Westend Itahari
+
+      Address: Dharan Road, Itahari – 2, Sunsari 56705
+
+  utter_Q20:
+  - text: "Certainly sir/madam, you could store your luggage at the concierge."
+
+  utter_Q21:
+  - text: "Sir/Madam, we have newly opened Tranquility Spa which is next to the swimming pool. We provide fitness center and Health Clubs as well."
+
+  utter_Q22:
+  - text: "Sir/Madam, you could smoke only in the smoking rooms."
+
+  utter_Q23:
+  - text: |-
+      We are sorry for your inconvenience. I will sent the items that you need as soon as possible. Amenities that are not placed in the rooms shall be delivered to our guests on request. A list of these amenities can be found in the "Forget Something?" card in the bathroom.
+
+  utter_Q24:
+  - text: "Sir/Madam, we could arrange a baby sitter for you. We need a prior information for the same."
+
+  utter_Q25:
+  - text: "Yes, Sir/Madam, we have safe deposit box placed in all the room as well as we have it at the cashier counter. This service is free of charge."
+
+  utter_Q26:
+  - text: "Sir/Madam, we have an ATM machine in our own premises, please take a right turn from the porch."
+
+  utter_Q27:
+  - text: "Sir/Madam, you may contact the front desk or the duty manager at the reception to replace your lost key."
+
+  utter_Q28:
+  - text: "Certainly Sir/Madam, the Travel desk at the lobby could assist you for your sightseeing tour."
+
+  utter_Q29:
+  - text: "Sir/Madam, our checkout time is 11 am, kindly contact the duty manager for late check out."
+
+  utter_Q30:
+  - text: "Yes, Sir/Madam, you can get the city map from the reception/concierge."
+
+  utter_Q31:
+  - text: |-
+      Sir/Madam, each room has direct dial facility, you may dial “9” followed by the number for local calls and for ISD 9 followed by country code, city code and phone number. For any assistance you could dial "0" for operator.
+
+  utter_Q32:
+  - text: "Sir/Madam, the the duty manager would be sent for your assistance."
+
+  utter_Q33:
+  - text: "Sir/Madam, it is at Soaltee Mode, a few yards from the main gate of the hotel. If you would like we could also assist you for the same."
+
+  utter_Q34:
+  - text: "Sir/Madam, it is located next to the Swimming Pool."
+
+  utter_Q35:
+  - text: "You can get continental dishes at Garden Terrace Restaurant."
+
+  utter_Q36:
+  - text: "Sir/Madam, Bhaktapur is 18 km, Dhulikhel is 32 km, Nagarkot is 34 km and Pokhara is 200 km from the Hotel."
+
+  utter_Q37:
+  - text: "Yes we have a Spa & Jacuzzi available at Tranquility Spa locaed next to Swimming pool. "
+
+  utter_Q38:
+  - text: "Yes Sir/Madam, you certainly can use your laptop in the restaurants."
+
+  utter_Q39:
+  - text: "Sir/Madam, Travel desk at lobby will help you to reconfirm your flight tickets."
+
+  utter_Q40:
+  - text: "Sir/Madam, post stamps is available at the concierge desk."
+
+  utter_Q41:
+  - text: "We are sorry for your inconvenience . If you like us to change the bed linen daily, we will do so. We will send our staff to change it as soon as possible. We do not change linen daily unless guest requests for it or if they are soiled, to help the environment."
+
+  utter_Q42:
+  - text: |-
+      Sir/Madam, we serve breakfast at the coffee shop " Garden Terrace" which is at the lobby level.
+
+  utter_Q43:
+  - text: "Sir/Madam, You may contact our Duty Manager's desk at extn 41 for assistance."
+
+  utter_Q44:
+  - text: "We regret if you have been inconvenienced. Complimentary newspapers are available in the public areas and restaurant in the hotel or from the concierge desk. I can help you get a copy if you would like one."
+
+  utter_Q45:
+  - text: "Sir/Madam, we have three restaurants in the hotel: Garden Terrace or Coffee Shop, Bao Xuan serves chinese cuisine and Kakori serves Indian cuisine."
+
+  utter_Q46:
+  - text: "Sir/Madam, it is 20 kms from the hotel."
+
+  utter_Q47:
+  - text: "Yes,Sir/Madam, you could access internet in your room through WIFI, and cable connecion. "
+
+  utter_Q48:
+  - text: "We are sorry for the inconvenience. To respect guest privacy turndown service is provided only on request.If you require turndown service, we will provide it immediately."
+
+  utter_Q49:
+  - text: "Yes Sir/Madam, we have a wheel chair in the hotel. You may either contact the Duty Manager or Concierge staff for assistance."
+
+  utter_Q50:
+  - text: "Sir/Madam, the bar is open from 8:00 am till midnight."
+
+  utter_Q51:
+  - text: "Yes Sir/Madam, we have some shops at the right side on the way to main gate and one shop just near the lobby."
+
+  utter_Q52:
+  - text: "Sir/Madam, we have outdoor swimming pool, Gymnasium, Steam, Sauna, Jacuzzi, Massage, Yoga, Zumba and Lawn Tennis. As a room guest you are entitled for free use of our gymnasium and swimming pool. However, Steam Bath, Sauna and Massage are on chargable basis. Would you like me to make a reservation for you?"
+
+  utter_Q53:
+  - text: "Sir/Madam,you can go to Bhatabhateni Supermarket located at Kalanki , if you want a transport we can arrange the same for you. "
+
+  utter_Q54:
+  - text: "Sir/Madam, you can go to Civil Mall at Sundahara or Durbar marg which is one of the famous shoping market "
+
+  utter_Q55:
+  - text: "Sir/Madam, the nearest movie theater is at Civil Mall Shopping Mall "
+
+  utter_Q56:
+  - text: "Sir/Madam,you can find the local prodcut in Thamel"
+
+  utter_Q57:
+  - text: "Sir/Madam, you can go to Bhakatapur durbar square, patan durbar square, kathamndu durbar square. Shyoyambhunath temple, Pashupatinath temple, chandragiri hills "
+
+  utter_Q58:
+  - text: "Sir/Madam, you can charge your phone in the reception."
+
+  utter_Q59:
+  - text: "Sir/Madam, you can do the photocopy and printouts in Business Center at lobby level. "
+
+  utter_Q60:
+  - text: "Yes Sir/Madam, we have a fully equipped fitness centre. "
+
+  utter_Q61:
+  - text: "Sir/Madam, our checkin time is after 2 PM."
+  
+  utter_goodbye:
+  - text: "GoodBye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_rephrase:
+  - text: "I'm sorry, I do not have information yet but I am still learning and being updated."
+
+  utter_grateful:
+  - text: "Thank you! Do you have further questions?"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
